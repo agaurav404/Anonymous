@@ -1,2 +1,4 @@
-# Anonymous
-This is my First Repository And i really don't know what should I'll write in it's Description :-)
+Hey there, I'm Adii! 👋
+
+🌐 Website Developer | 💻 Programming Enthusiast
+Welcome to my GitHub profile! I'm Aditya Gaurav, a dedicated website developer with a passion for creating captivating online experiences.
